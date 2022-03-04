@@ -3,9 +3,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Flashcards is a light-weight web application written in TypeScript which has zero dependencies from the frontend and two deoendecies from the [backend](https://github.com/thsu1031/Flashcards-Server). Users can register or log into an account and build personal flashcards. 
+Flashcards is a light-weight web application written in TypeScript which has zero dependencies from the frontend and two dependencies from the [backend](https://github.com/thsu1031/Flashcards-Server). Users can register or log into an account and build personal flashcards. 
 
-The idea behind the project was to explore important web concepts such as DOM manipulation, single page application, client side routing, basic authentication and CRUD API  without utilizing frameworks,  while keeping the code base clear and scalable.
+The idea behind the project was to explore important web concepts such as DOM manipulation, single page application, client side routing, basic authentication and CRUD API without utilizing frameworks, while keeping the code base clear and scalable.
 
 
 <p align="middle"">
